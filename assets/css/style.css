@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.green {
+  background-color: green;
+  color: white;
+}
+
+.table_td {
+  cursor: pointer;
+}
+.table_td :hover {
+  background-color: green;
+}/*# sourceMappingURL=style.css.map */
